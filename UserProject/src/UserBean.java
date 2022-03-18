@@ -24,5 +24,10 @@ public class UserBean {
 	}
 	public void setlName(String lName) {
 		this.lName = lName;
+	}
+	@Override
+	public String toString() {
+		return "UserBean [id=" + id + ", fName=" + fName + ", lName=" + lName + "]";
 	}	
+	
 }
