@@ -1,5 +1,5 @@
 
-/* user bean test*/
+/* user bean tes*/
 public class UserBean {
 
     private int id;
